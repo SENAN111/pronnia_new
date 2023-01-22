@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRONIYE_NEW.props" />
+</Project>
